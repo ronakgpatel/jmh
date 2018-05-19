@@ -1,0 +1,3 @@
+Benchmark                                Mode  Cnt     Score     Error  Units
+HelloWorldTestBenchmark.testGreetWithSB  avgt   20   327.989 ±   6.392  ns/op
+HelloWorldTestBenchmark.testGreetWithSF  avgt   20  2575.090 ± 221.465  ns/op
