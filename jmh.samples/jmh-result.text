@@ -1,0 +1,2 @@
+Benchmark                                  Mode  Cnt   Score    Error  Units
+DeadCodeBenchmarkSample.testAddBigInteger  avgt   20  ≈ 10⁻⁵           ms/op
